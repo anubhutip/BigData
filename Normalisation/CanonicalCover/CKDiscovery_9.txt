@@ -1,0 +1,2 @@
+userid -> deptid, name
+deptid -> deptname
